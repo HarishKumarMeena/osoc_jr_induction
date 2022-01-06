@@ -1,5 +1,7 @@
 git command and description
-file in the second branch
+
+file in the main branch
+
 
 git-archive[1]
 Create an archive of files from a named tree
@@ -11,7 +13,7 @@ git-cherry-pick[1]
 Apply the changes introduced by some existing commits
 
 git-clean[1]
-Delete untracked files from the working tree
+Remove untracked files from the working tree
 
 git-describe[1]
 Give an object a human readable name based on an available ref
