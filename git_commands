@@ -1,0 +1,32 @@
+git command and description
+file in the second branch
+
+git-archive[1]
+Create an archive of files from a named tree
+
+git-checkout[1]
+Switch branches or restore working tree files
+
+git-cherry-pick[1]
+Apply the changes introduced by some existing commits
+
+git-clean[1]
+Delete untracked files from the working tree
+
+git-describe[1]
+Give an object a human readable name based on an available ref
+
+git-diff[1]
+Show changes between commits, commit and working tree, etc
+
+git-gc[1]
+Cleanup unnecessary files and optimize the local repository
+
+git-gui[1]
+A portable graphical interface to Git
+
+git-maintenance[1]
+Run tasks to optimize Git repository data
+
+git-mv[1]
+Move or rename a file, a directory, or a symlink
